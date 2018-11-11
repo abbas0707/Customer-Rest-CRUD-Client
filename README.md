@@ -26,7 +26,7 @@ Running the client
 
    mvn spring-boot:run
    
-4)- The application is using spring boot scheduled task API, It can be seen from log, client is consuming the SERVICE after 5 mins of delay.
+5)- The application is using spring boot scheduled task API, It can be seen from log, client is consuming the SERVICE after 5 mins of delay.
 
-5)- All the responses are saved in file under data folder in JSON format.
+6)- All the responses are saved in file under data folder in JSON format.
 
