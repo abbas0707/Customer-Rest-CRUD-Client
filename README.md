@@ -19,6 +19,7 @@ Running the client
 2)- cd to home folder  Customer-Rest-CRUD-Client
 
 3)- Run command 
+
    mvn spring-boot:run
    
 4)- It can be seen from log, client is consuming the SERVICE after 5 mins of delay.
