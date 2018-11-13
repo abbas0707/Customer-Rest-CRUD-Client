@@ -1,4 +1,4 @@
-# Customer-Rest-CRUD-Client
+# Customer-Rest-CRUD-Client using springboot
 Rest API Client with fixed delay
 The application is Rest API client, which consumes the service after 5 mintes delay. Rest API source is at https://github.com/abbas0707/Customer-Rest-CRUD
 This client consumes /listCustomers functionality and saves the response under under data folder in JSON format.
